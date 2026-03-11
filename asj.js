@@ -63,6 +63,6 @@ else  {console.log("keep posting");}
 //• If yes → "Party time "
 //• Otherwise → "Back to work/study "
 //Use || operator.
-let today="saturday"
+let today="monday"
 if (today === "saturday" || today ==="sunday"){ console.log("party time")}
 else{console.log("back to work/study")}
