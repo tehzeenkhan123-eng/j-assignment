@@ -104,7 +104,7 @@ if (a % 3==0 && a% 5==0) {
 //Use && operator.
 
 
-let username = "teheen";
+let username = "ten";
 let password = "5678";
 
 if (username === "admin" && password === "1234") {
